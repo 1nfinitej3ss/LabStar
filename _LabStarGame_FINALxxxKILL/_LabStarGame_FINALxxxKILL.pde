@@ -1,7 +1,7 @@
 /* 
 [info]
  * Created: April, 30 2012
- * By: Jessica Tankersley
+ * By: Jessica Ann
  * For: The project "Lab Star, the game".  For more information visit jtankersley.com.
  * Contact: jesstankersley@gmail.com 
 
