@@ -84,8 +84,8 @@ LabStar/
 ## Media & Documentation
 
 - **Video Documentation**: [Lab Star on Vimeo](https://player.vimeo.com/video/51833380)
-- **Artist Website**: [jessicaann.info](http://jessicaann.info)
-- **Project Context**: [Lab Star Project Page](http://jessicaann.xyz/lab-star/)
+- **Project Repository**: [Lab Star on GitHub](https://github.com/1nfinitej3ss/LabStar)
+- **Project Context**: This repository contains the complete source code and documentation for the Lab Star interactive arcade cabinet project
 
 ## Artist Statement
 
@@ -100,7 +100,7 @@ LabStar/
 
 ## Contributing
 
-This is an artistic research project. For questions about the project or technical implementation, please refer to the artist's website or contact information provided in the project documentation.
+This is an artistic research project. For questions about the project or technical implementation, please refer to this GitHub repository or create an issue in the repository.
 
 ## License
 
